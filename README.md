@@ -1,7 +1,7 @@
 # tradetonApp
 
 
-## Development Workflow
+## Documentation on how to install
 
 - Clone this repo `git clone https://github.com/vijaygehlot/tradetonApp.git`
 - `cd tradetonApp`
