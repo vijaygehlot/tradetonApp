@@ -1,7 +1,7 @@
 # tradetonApp
 
 
-## Documentation on how to install
+## Documentation on how to install, run and use the application
 
 - Clone this repo `git clone https://github.com/vijaygehlot/tradetonApp.git`
 - `cd tradetonApp`
